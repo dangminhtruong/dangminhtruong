@@ -1,3 +1,1 @@
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dangminhtruong&theme=nord)](https://viblo.asia/u/xdangminhtruongx)
-
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dangminhtruong&layout=compact&theme=nord)](https://viblo.asia/u/xdangminhtruongx)
+![](https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png)
